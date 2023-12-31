@@ -1,5 +1,5 @@
 # CROP-RECOMMENDATION-SYSTEM1
-ntroduction:
+INTRODUCTION:
 
 In the realm of agriculture, where traditional knowledge meets cutting-edge technology, the Crop Recommendation System is revolutionizing how farmers choose crops. By taking into account the mineral composition of the soil, including potassium, nitrogen, and phosphorous, as well as factors like humidity, temperature, and rainfall, this data-driven project is empowering farmers with precise recommendations. In this blog, we'll delve deeper into how these critical factors play a pivotal role in the decision-making process.
 The Role of Soil Minerals:
@@ -18,6 +18,4 @@ Conclusion:
 
 The Crop Recommendation System represents the pinnacle of data-driven agriculture. By accounting for soil minerals, humidity, temperature, and rainfall, it empowers farmers to make informed decisions about crop selection. This approach not only boosts productivity but also contributes to more sustainable and resilient farming practices, which are essential for the future of agriculture in an ever-changing world. As technology continues to advance, projects like these demonstrate the transformative power of data in agriculture.
 
-croppp
 
-cropp
